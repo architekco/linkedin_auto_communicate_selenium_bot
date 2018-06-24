@@ -1,0 +1,10 @@
+
+Bot-scripts/reading-message.py
+
+.project
+.pydevproject
+*.py[co]
+*.log
+.env
+venv/
+.idea/
